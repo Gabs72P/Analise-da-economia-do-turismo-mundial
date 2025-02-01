@@ -28,13 +28,13 @@ O desenvolvimento do projeto consiste na resolução das seguintes questões a r
 *   Quais são os 10 países com as maiores receitas do turismo?
 *   Como a composição do turismo (entradas vs. saídas) varia entre os países?
 
-###Turismo no Brasil:
+### Turismo no Brasil:
 *   Como o turismo evoluiu no Brasil?
 *   Quais os fatores que impulsionam ou inibem o crescimento do turismo no Brasil?
 
 ---
 
-##Impacto do turismo na economia nacional:
+## Impacto do turismo na economia nacional:
 *   Qual a contribuição do turismo para o emprego em diferentes países?
 *   Existe uma relação entre o turismo e o desenvolvimento de infraestrutura?
 
