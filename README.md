@@ -13,7 +13,6 @@ O desenvolvimento do projeto consiste na resolução das seguintes questões a r
 
 ## Relação entre turismo e PIB:
 *   Existem países onde o turismo é o principal motor da economia?
-*   Qual a correlação entre as receitas do turismo e o PIB dos países?
 *   O turismo representa uma fatia significativa do PIB dos países em média?
 
 ---
